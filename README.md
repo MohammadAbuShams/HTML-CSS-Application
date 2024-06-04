@@ -1,6 +1,6 @@
 # Final-Course-HTML-CSS-Application-
 
-
+Here is my new project “a course-finding app” made with HTML, CSS, and media query! This app helps you find the perfect course just for you. Whether you're looking for a professional teacher, certified courses, or interesting learning experiences, we have something for everyone.
 
 
 <div style="display:flex; justify-content:center;">

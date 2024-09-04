@@ -1,19 +1,25 @@
-# Final-Course-HTML-CSS-Application-
+# Final Course HTML CSS Application
 
-Here is my new project “a course-finding app” made with HTML, CSS, and media query! This app helps you find the perfect course just for you. Whether you're looking for a professional teacher, certified courses, or interesting learning experiences, we have something for everyone.
+Welcome to the repository for the Final Course HTML CSS Application! This application is a modern course-finding platform built using HTML, CSS, and media queries. It's designed to help users easily discover the perfect learning opportunity, whether seeking professional instruction, certified courses, or engaging educational experiences.
 
+## Project Overview
 
-<div style="display:flex; justify-content:center;">
-  <img src="https://github.com/MohammadAbuShams/Final-Course-HTML-CSS-Application-/assets/116977597/299363b8-379f-4317-be73-5fe95f7aafcd" alt="" width="45%">
+This course-finding app features a clean, responsive design that adjusts beautifully across different devices. It offers a user-friendly interface where users can browse various courses, read testimonials, and register for their next learning journey.
 
-  <img src="https://github.com/MohammadAbuShams/Final-Course-HTML-CSS-Application-/assets/116977597/ffb50fc6-a50c-4d12-9707-cb5ab4af0623" alt="" width="45%">
-</div>
+### Features
 
+- **Course Browsing:** Explore courses by category, popularity, or recommendations.
+- **Responsive Design:** Seamlessly adapts to any screen size, ensuring a great user experience on both mobile and desktop.
+- **User Accounts:** Users can register and log in to manage their course enrollments and view their progress.
+- **Testimonials:** Read reviews from past learners to make informed decisions about courses.
 
-<div style="display:flex; justify-content:center;">
-  <img src="https://github.com/MohammadAbuShams/Final-Course-HTML-CSS-Application-/assets/116977597/323612df-715c-4ec5-a924-c6f6a8f54bac" alt="" width="45%">
+### Built With
 
-  <img src="https://github.com/MohammadAbuShams/Final-Course-HTML-CSS-Application-/assets/116977597/58ecadb0-738f-4ba9-8ebc-69c9a2e3eb5b" alt="" width="45%">
-</div>
+- **HTML** - For structuring the content.
+- **CSS** - For styling the content and responsive layouts.
+- **Media Queries** - To enhance responsiveness and mobile compatibility.
 
+## Live Demo
+
+Check out the [live demo](https://mohammadabushams.github.io/Final-Course-HTML-CSS-Application-) to see the application in action.
 

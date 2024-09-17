@@ -16,10 +16,10 @@ This course-finding app features a clean, responsive design that adjusts beautif
 ### Built With
 
 - **HTML** - For structuring the content.
-- **CSS** - For styling the content and responsive layouts.
+- **CSS** - This is for styling the content and responsive layouts.
 - **Media Queries** - To enhance responsiveness and mobile compatibility.
 
 ## Live Demo
 
-Check out the [live demo](https://mohammadabushams.github.io/Final-Course-HTML-CSS-Application-) to see the application in action.
+Check out the [live demo](https://mohammadabushams.github.io/Final-Course-HTML-CSS-Application/) to see the application in action.
 

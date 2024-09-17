@@ -21,5 +21,5 @@ This course-finding app features a clean, responsive design that adjusts beautif
 
 ## Live Demo
 
-Check out the [live demo](https://mohammadabushams.github.io/Final-Course-HTML-CSS-Application/) to see the application in action.
+Check out the [live demo](https://mohammadabushams.github.io/HTML-CSS-Application/) to see the application in action.
 

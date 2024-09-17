@@ -1,4 +1,4 @@
-# Final Course HTML CSS Application
+# HTML & CSS Application
 
 Welcome to the repository for the Final Course HTML CSS Application! This application is a modern course-finding platform built using HTML, CSS, and media queries. It's designed to help users easily discover the perfect learning opportunity, whether seeking professional instruction, certified courses, or engaging educational experiences.
 
